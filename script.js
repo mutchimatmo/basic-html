@@ -1,5 +1,5 @@
-let a = 5;
-let b = 10;
+let a = 20;
+let b = 6;
 console.log(a + b);
 
 document.getElementById("main-head").innerHTML = a + b;
